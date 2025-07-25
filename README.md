@@ -13,3 +13,5 @@ Users can create, view, and delete daily entries, with a smooth and responsive u
 - GetX – State management, routing, and dependency injection
 - Dart – Programming language
 - GetStorage – For local data persistence
+
+- Live demo:  https://appetize.io/app/b_z645mzqjzysnpbtu23736gnqza
